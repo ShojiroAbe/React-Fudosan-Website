@@ -3,4 +3,5 @@
 アニメーションでReactウェブサイトを作成する-レスポンシブReactプロジェクトの不動産デザイン
 https://www.youtube.com/watch?v=sKs9FiAHSN4
 
-9:52から
+次は29：56だが
+フルで見るな有料コンテンツになる
